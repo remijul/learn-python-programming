@@ -14,23 +14,30 @@ The learning path starts quietly with some fundamentals (data type, operations, 
 
 ## Table of content
 ### 1. Getting started
-* []()
-* []()
+* [Python did you say Python?]()
+* [Start with hello world]()
+* [Use variables]()
+* [Structure you code]()
 
 ### 2. Data types
-* []()
-* []()
+* [Numbers]()
+* [Booleans]()
+* [Strings]()
 
 ### 3. Data structures
-* []()
-* []()
+* [Tuples]()
+* [Lists]()
+* [Dictionaries]()
 
 ### 4. Data operations
-* []()
-* []()
+* [String manipulations and operations]()
+* [Arithmetic operations]()
+* [Comparison operations]()
+* [Logical operations]()
+* [Membership operations]()
 
 ### 5. Control flow
-* []()
+* [The ìf` condition and more]()
 * []()
 
 ### 6. Functional programming
