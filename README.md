@@ -55,8 +55,11 @@ The learning path starts quietly with some fundamentals (data type, operations, 
 
 
 ## Author
+[![image alt text]([image URL link](http://www.dcid-consulting.fr/))]{width:80, height:80}("https://github.com/remijul/img/blob/master/dcid_id_logo.png")
+
+
 <img src="https://github.com/remijul/img/blob/master/dcid_id_logo.png"
-     align="left" alt="Dcid Data Science Consulting" width="120" height="120">
+     align="left" alt="Dcid Data Science Consulting" width="80" height="80">
 
 As a senior data scientist and trainer, I really enjoy to share some of my knowledge and skills get from the past years.  
 If you need some special consultancy, dedicated training, cut-in-the-edge development, so please [visit my website](http://www.dcid-consulting.fr/) or let's get in touch <contact@dcid-consulting.fr>.
