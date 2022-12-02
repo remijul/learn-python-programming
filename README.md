@@ -2,7 +2,7 @@
 
 > Welcome to the **learning lab**. :rocket:  
 > Here are some great tutorials, ressources and exercices to learn and improve your **Python programming skills** ! :boom:  
-> Learning lab is dedicated to **beginners** and **practionners** who want to become a **Effective Data Scientist**.
+> Learning lab is dedicated to **beginners** and **practionners** who want to become a **Effective Data Scientist**.  
 > This section if **focused** on **Python** programming and it's the **first pillar** of Data Science knowledge and skills. 
 > Have a **fun** learning ! :smirk:
 
