@@ -59,4 +59,4 @@ The learning path starts quietly with some fundamentals (data type, operations, 
      align="left" alt="Dcid Data Science Consulting" width="80" height="80">](http://www.dcid-consulting.fr/)
 
 As a senior data scientist and trainer, I really enjoy to share some of my knowledge and skills get from the past years.  
-If you need some special consultancy, dedicated training, cut-in-the-edge development, so please [visit my website](http://www.dcid-consulting.fr/){:target="_blank"} or let's get in touch <contact@dcid-consulting.fr>.
+If you need some special consultancy, dedicated training, cut-in-the-edge development, so please [visit my website](http://www.dcid-consulting.fr/) or let's get in touch <contact@dcid-consulting.fr>.
