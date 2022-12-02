@@ -1,6 +1,6 @@
 # learn-python-programming
 
-> Welcome to the learning lab.  
+> Welcome to the learning lab. :rocket:  
 > Here are some great tutorials, ressources and exercices to learn and improve your Python programming skills ! :boom:  
 > Have a fun learning ! :smirk:
 
