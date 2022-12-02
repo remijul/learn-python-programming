@@ -44,3 +44,6 @@ The learning path starts quietly with some fundamentals (data type, operations, 
 ### 8. Modules and packages
 * []()
 * []()
+
+
+## Author
