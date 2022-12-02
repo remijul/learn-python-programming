@@ -1,3 +1,4 @@
+<base target="_blank">
 # learn-python-programming
 
 > :zap: Welcome to the **learning lab**. :zap:  
