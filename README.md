@@ -8,7 +8,7 @@
 > :smirk: Have a **fun** learning ! :smirk:
 
 <img src="https://github.com/remijul/learn-python-programming/blob/main/python-logo-only.png" align="right"
-     alt="Python logo" width="120" height="178">
+     alt="Python logo" width="120" height="120">
 
 The learning path starts quietly with some fundamentals (data type, operations, ...) and moves toward some more advanced concepts (condition, function, oriented programming, ...).
 
